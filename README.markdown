@@ -2,4 +2,4 @@
 
 This is the first application for
 [*Ruby on Rails Tutorial: Joe's learning](http://devio.us/~jlechner)
-by [Josef Lechner](http://www.pages.drexel.edu/~jlechner)
+by [Josef Lechner](http://www.pages.drexel.edu/~jfl53)
